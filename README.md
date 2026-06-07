@@ -53,4 +53,4 @@ Facebook Ad Library uses JavaScript rendering for full ad display. When the stat
 
 ---
 
-Built by [The Label AI Studios PH](https://instagram.com/thelabelaistudios.ph)
+Built by Rana Mahmod (Contact: mahmodrana24@gmail.com)
